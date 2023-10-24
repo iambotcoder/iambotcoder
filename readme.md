@@ -18,9 +18,9 @@ I enjoy turning ideas into reality through code. Here are some projects I'm part
 
 Sure, here are your projects with brief one-line descriptions in bullet points:
 
-- [Build Your PC](https://github.com/iambotcoder/BuildYourPC): An e-commerce website for custom PC enthusiasts, offering a wide selection of computer products and compatibility checks.
-- [Blogify](https://github.com/iambotcoder/Blogify): A blogging website exclusively for NITK students, allowing them to share ideas, thoughts, and opinions on college events.
-- [Black Jack Game ](https://github.com/iambotcoder/Black-Jack-Game): A web-based Blackjack game designed for single-player fun, complete with a high score tracking feature.
+- [Build Your PC](https://github.com/iambotcoder/BuildYourPC) : An e-commerce website for custom PC enthusiasts, offering a wide selection of computer products and compatibility checks.
+- [Blogify](https://github.com/iambotcoder/Blogify) : A blogging website exclusively for NITK students, allowing them to share ideas, thoughts, and opinions on college events.
+- [Black Jack Game ](https://github.com/iambotcoder/Black-Jack-Game) : A web-based Blackjack game designed for single-player fun, complete with a high score tracking feature.
 
 Feel free to explore my repositories to discover more of my work.
 
