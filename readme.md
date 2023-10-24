@@ -28,9 +28,7 @@ Feel free to explore my repositories to discover more of my work.
 
 I'd love to connect with fellow developers and tech enthusiasts. You can find me on these platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/feed/)
 
 Looking forward to networking and sharing knowledge with you. Let's build, innovate, and explore together!
 
