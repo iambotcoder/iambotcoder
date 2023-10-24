@@ -15,9 +15,12 @@ Hello ! I'm Subodh, a tech enthusiast from the vibrant city of Navi Mumbai, Maha
 
 I enjoy turning ideas into reality through code. Here are some projects I'm particularly proud of:
 
-- [Project A](https://github.com/yourusername/projectA): A short description of the project and what inspired it.
-- [Project B](https://github.com/yourusername/projectB): Highlight the problem it solves and the impact it has.
-- [Project C](https://github.com/yourusername/projectC): Discuss the challenges faced and lessons learned.
+
+Sure, here are your projects with brief one-line descriptions in bullet points:
+
+- [BUILD YOUR PC](https://github.com/yourusername/projectA): An e-commerce website for custom PC enthusiasts, offering a wide selection of computer products and compatibility checks.
+- [BLOGIFY](https://github.com/yourusername/projectB): A blogging website exclusively for NITK students, allowing them to share ideas, thoughts, and opinions on college events.
+- [BLACK JACK GAME ](https://github.com/yourusername/projectC): A web-based Blackjack game designed for single-player fun, complete with a high score tracking feature.
 
 Feel free to explore my repositories to discover more of my work.
 
