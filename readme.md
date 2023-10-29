@@ -8,7 +8,7 @@ Hello ! I'm Subodh, a tech enthusiast from the vibrant city of Navi Mumbai, Maha
 - 🌱 I'm a lifelong learner, always on the lookout for the latest trends in tech.
 - 🎵 Music is my muse, and I can often be found with headphones on, grooving to the beats.
 - 🏐 Volleyball is my sport of choice, and I believe in teamwork both on and off the court.
-- ✈️ Wanderlust runs deep in my veins; I love exploring new places, savoring diverse cuisines, and experiencing different cultures.
+- ✈️ Wanderlust runs deep in my veins, I love exploring new places, savoring diverse cuisines, and experiencing different cultures.
 - 💡 I'm on a mission to tackle real-life problems with code, and my projects reflect this passion.
 
 ## My Projects
