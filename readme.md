@@ -9,14 +9,31 @@ Hello! I'm Subodh, a tech enthusiast from Navi Mumbai, Maharashtra. Right now, I
 
 ## A Little About Me
 
-- 🌱 I'm all about learning, whether it's tech trends, new languages, or just figuring out cool ways to solve problems.
-- 🎵 Music is life! I’m always jamming to anything that helps me focus, from chill beats to high-energy tunes.
-- 🏐 Volleyball is my thing. I’m all about teamwork and having fun while staying competitive.
-- ✈️ Big time wanderlust! Traveling the world, trying new food, and soaking up new cultures is my way of staying inspired and thinking outside the box.
-- 💡 Coding is my way of making a difference. I get excited about building things that actually help people and make life easier.
-- 💻 **Tech Stuff I Love:** I code in languages like C, C++, Java, Python, HTML, CSS, JavaScript, React, Node, SQL, and PHP. I also love working with AWS (EC2, S3, Lambda, CloudFormation, IAM, CloudWatch, RDS, Route 53, VPC) and containerization tools like Docker and Kubernetes.
-- 🎓 **Certifications I’ve Got:** AWS Cloud Quest: Cloud Practitioner, AWS re/Start Graduate, Career Essentials in Software Development (Microsoft and LinkedIn), and Postman API Fundamentals Student Expert.
+- 🌱 **Learning is everything**  
+  - I’m constantly exploring new tech trends, programming languages, and innovative ways to solve problems.
 
+- 🎵 **Music is life!**  
+  - Always jamming to tunes that help me focus, whether it's chill beats or high-energy tracks to keep me in the zone.
+
+- 🏐 **Volleyball is my sport**  
+  - Passionate about teamwork and competition, I thrive in both friendly games and serious matches.
+
+- ✈️ **Wanderlust is in my soul**  
+  - Traveling to new places, trying diverse cuisines, and soaking in different cultures keeps me inspired and curious about the world.
+
+- 💡 **Coding is my way of making an impact**  
+  - I enjoy building tools and solutions that actually help people and make life easier, from small utilities to big projects.
+
+- 💻 **Tech Stuff I Love:**  
+  - Programming Languages: C, C++, Java, Python, HTML, CSS, JavaScript, React, Node, SQL, PHP.  
+  - AWS Services: EC2, S3, Lambda, CloudFormation, IAM, CloudWatch, RDS, Route 53, VPC.  
+  - Containerization Tools: Docker, Kubernetes.
+
+- 🎓 **Certifications I’ve Got:**  
+  - AWS Cloud Quest: Cloud Practitioner  
+  - AWS re/Start Graduate  
+  - Career Essentials in Software Development (Microsoft and LinkedIn)  
+  - Postman API Fundamentals Student Expert.
 
 ## Get in Touch
 
