@@ -27,7 +27,7 @@ I’d love to connect with fellow developers or anyone who shares my passion for
 
 - 📧 **Email:** [iambotcoder@gmail.com](mailto:iambotcoder@gmail.com)
 - 🌐 **Portfolio:** [Check Out My Work!](https://iambotcoder.github.io/Subodh-portfolio/)
-- 🔗 **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/subodhsonawane-)
+- 🔗 **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/subodh-sonawane-/)
 
 Let’s chat, collaborate, and create something awesome together!
 Looking forward to networking and sharing knowledge with you. Let's build, innovate, and explore together!
