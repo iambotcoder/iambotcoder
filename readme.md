@@ -5,38 +5,44 @@
 
 # Hey, I'm Subodh! 🌟
 
-Hello ! I'm Subodh, a tech enthusiast from the vibrant city of Navi Mumbai, Maharashtra. Currently, I'm embarking on an exciting journey to master the world of Computer Science as a student at the National Institute of Technology Karnataka, Surathkal. I bring creativity, curiosity, and a touch of wanderlust to the world of technology.
+Hello! I'm Subodh, a tech enthusiast from Navi Mumbai, Maharashtra. Right now, I'm diving deep into the world of Computer Science at the National Institute of Technology Karnataka, Surathkal. I love experimenting with new tech and solving real-world problems through code. Oh, and I’m also a fan of music, travel, and volleyball!
 
-## About Me
+## A Little About Me
 
-- 🌱 I'm a lifelong learner, always on the lookout for the latest trends in tech.
-- 🎵 Music is my muse, and I can often be found with headphones on, grooving to the beats.
-- 🏐 Volleyball is my sport of choice, and I believe in teamwork both on and off the court.
-- ✈️ Wanderlust runs deep in my veins, I love exploring new places, savoring diverse cuisines, and experiencing different cultures.
-- 💡 I'm on a mission to tackle real-life problems with code, and my projects reflect this passion.
+- 🌱 I'm all about learning, whether it's tech trends, new languages, or just figuring out cool ways to solve problems.
+- 🎵 Music is my vibe. You'll usually find me with headphones on, jamming to anything from chill beats to energetic tunes—it keeps me in the zone.
+- 🏐 Volleyball is my thing. I’m all about teamwork and having fun while staying competitive.
+- ✈️ Big time wanderlust! Traveling the world, trying new food, and soaking up new cultures is my way of staying inspired and thinking outside the box.
+- 💡 Coding is my way of making a difference. I get excited about building things that actually help people and make life easier.
 
-## My Projects
+## Tech Stuff I Love
 
-I enjoy turning ideas into reality through code. Here are some projects I'm particularly proud of:
+- **Languages I Code In:** C, C++, Java, Python, HTML, CSS, JavaScript, React, Node, SQL, PHP
+- **Cloud & AWS:** EC2, S3, Lambda, CloudFormation, IAM, CloudWatch, RDS, Route 53, VPC
+- **Containerization:** Docker, Kubernetes
 
+## Certifications I’ve Got
 
-Sure, here are your projects with brief one-line descriptions in bullet points:
+- **AWS Cloud Quest: Cloud Practitioner** - Amazon Web Services
+- **AWS re/Start Graduate** - AWS Training & Certifications
+- **Career Essentials in Software Development** - Microsoft and LinkedIn
+- **Postman API Fundamentals Student Expert** - Postman
 
-- [Build Your PC](https://github.com/iambotcoder/BuildYourPC) : An e-commerce website for custom PC enthusiasts, offering a wide selection of computer products and compatibility checks.
-- [Blogify](https://github.com/iambotcoder/Blogify) : A blogging website exclusively for NITK students, allowing them to share ideas, thoughts, and opinions on college events.
-- [Black Jack Game ](https://github.com/iambotcoder/Black-Jack-Game) : A web-based Blackjack game designed for single-player fun, complete with a high score tracking feature.
+## Things I’m Into
 
-Feel free to explore my repositories to discover more of my work.
+### 📸 Nature Photography
+When I’m not coding, I’m probably out in nature taking photos. I love capturing beautiful moments and sceneries that remind me of how awesome our world is.
 
 ## Get in Touch
 
-I'd love to connect with fellow developers and tech enthusiasts. You can find me on these platforms:
+I’d love to connect with fellow developers or anyone who shares my passion for tech. Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/feed/)
+- 📧 **Email:** [subodhsonawanemail@gmail.com](mailto:subodhsonawanemail@gmail.com)
+- 🌐 **Portfolio:** [Check Out My Work!](https://your-portfolio-link.com) *(Add your portfolio link)* 
+- 🔗 **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/subodhsonawane)
 
+Let’s chat, collaborate, and create something awesome together!
 Looking forward to networking and sharing knowledge with you. Let's build, innovate, and explore together!
 
 
 ![catwalkinggif-ezgif com-resize (1)](https://github.com/user-attachments/assets/753c5525-ed32-46ca-8226-added99aa2e5)
-
-![catwalkinggif-ezgif com-resize (2)](https://github.com/user-attachments/assets/b2b5a741-3e53-4389-8992-dd2f7544bac5)
