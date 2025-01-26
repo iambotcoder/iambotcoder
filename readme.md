@@ -1,4 +1,7 @@
 
+
+![golden-cat-gif-typing-ezgif com-crop](https://github.com/user-attachments/assets/72f9701f-6f7d-4226-a23f-246bab3ae201)
+
 # Hey, I'm Subodh! 🌟
 
 Hello ! I'm Subodh, a tech enthusiast from the vibrant city of Navi Mumbai, Maharashtra. Currently, I'm embarking on an exciting journey to master the world of Computer Science as a student at the National Institute of Technology Karnataka, Surathkal. I bring creativity, curiosity, and a touch of wanderlust to the world of technology.
