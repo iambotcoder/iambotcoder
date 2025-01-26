@@ -38,7 +38,7 @@ When I’m not coding, I’m probably out in nature taking photos. I love captur
 I’d love to connect with fellow developers or anyone who shares my passion for tech. Feel free to reach out to me on:
 
 - 📧 **Email:** [subodhsonawanemail@gmail.com](mailto:subodhsonawanemail@gmail.com)
-- 🌐 **Portfolio:** [Check Out My Work!](https://your-portfolio-link.com) *(Add your portfolio link)* 
+- 🌐 **Portfolio:** [Check Out My Work!](https://iambotcoder.github.io/Subodh-portfolio/)
 - 🔗 **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/subodhsonawane)
 
 Let’s chat, collaborate, and create something awesome together!
