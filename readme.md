@@ -10,7 +10,7 @@ Hello! I'm Subodh, a tech enthusiast from Navi Mumbai, Maharashtra. Right now, I
 ## A Little About Me
 
 - 🌱 I'm all about learning, whether it's tech trends, new languages, or just figuring out cool ways to solve problems.
-- 🎵 Music is my vibe. You'll usually find me with headphones on, jamming to anything from chill beats to energetic tunes—it keeps me in the zone.
+- 🎵 Music is life! I’m always jamming to anything that helps me focus, from chill beats to high-energy tunes.
 - 🏐 Volleyball is my thing. I’m all about teamwork and having fun while staying competitive.
 - ✈️ Big time wanderlust! Traveling the world, trying new food, and soaking up new cultures is my way of staying inspired and thinking outside the box.
 - 💡 Coding is my way of making a difference. I get excited about building things that actually help people and make life easier.
