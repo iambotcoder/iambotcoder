@@ -1,5 +1,6 @@
 
 
+
 ![golden-cat-gif-typing-ezgif com-crop](https://github.com/user-attachments/assets/72f9701f-6f7d-4226-a23f-246bab3ae201)
 
 # Hey, I'm Subodh! 🌟
@@ -35,3 +36,7 @@ I'd love to connect with fellow developers and tech enthusiasts. You can find me
 
 Looking forward to networking and sharing knowledge with you. Let's build, innovate, and explore together!
 
+
+![catwalkinggif-ezgif com-resize (1)](https://github.com/user-attachments/assets/753c5525-ed32-46ca-8226-added99aa2e5)
+
+![catwalkinggif-ezgif com-resize (2)](https://github.com/user-attachments/assets/b2b5a741-3e53-4389-8992-dd2f7544bac5)
