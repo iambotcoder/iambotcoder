@@ -5,7 +5,7 @@
 
 # Hey, I'm Subodh! 🌟
 
-Hello! I'm Subodh, a tech enthusiast from Navi Mumbai, Maharashtra. Right now, I'm diving deep into the world of Computer Science at the National Institute of Technology Karnataka, Surathkal. I love experimenting with new tech and solving real-world problems through code. Oh, and I’m also a fan of music, travel, and volleyball!
+Hello! I'm Subodh, a tech enthusiast from Navi Mumbai, Maharashtra. I recently completed my Master's in Computer Science from the National Institute of Technology Karnataka, Surathkal. I enjoy exploring new technologies and building solutions to real-world problems through code. Apart from tech, I'm passionate about nature photography, music, and travel!
 
 ## A Little About Me
 
