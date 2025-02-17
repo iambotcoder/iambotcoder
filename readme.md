@@ -10,16 +10,17 @@ Hello! I'm Subodh, a tech enthusiast from Navi Mumbai, Maharashtra. I recently c
 ## A Little About Me
 
 - 🌱 I'm all about learning, whether it's tech trends, new languages, or just figuring out cool ways to solve problems.
-- 🎧 Music is life! I’m always jamming to anything that helps me focus, from chill beats to high-energy tunes.
-- 🏐 Volleyball is my thing. I’m all about teamwork and having fun while staying competitive.
-- ✈️ Big time Wanderlust runs deep! Traveling, trying new food, and exploring cultures keep me inspired and creative.
+- ☁️ Cloud computing fascinates me! I'm a Certified AWS Cloud Practitioner and love exploring cloud technologies.
 - 💡 Coding is my way of making a difference. I get excited about building things that actually help people and make life easier.
+- 🎧 Music is life! I’m always jamming to anything that helps me focus, from chill beats to high-energy tunes.
+- ✈️ Big time Wanderlust runs deep! Traveling, trying new food, and exploring cultures keep me inspired and creative.
+🌿 I find peace in nature—whether it’s watching the moon, sunrise, or sunset, nature always amazes me.
 
 ## Tech Stuff I Love
 
-- **Languages I Code In:** C, C++, Java, Python, HTML, CSS, JavaScript, React, Node, SQL, PHP
-- **Cloud & AWS:** EC2, S3, Lambda, CloudFormation, IAM, CloudWatch, RDS, Route 53, VPC
-- **Containerization:** Docker, Kubernetes
+- **Languages I Code In:** C, C++, Java, Python, HTML, CSS, JavaScript, React, Node, SQL, PHP.
+- **Cloud & AWS:** EC2, S3, Lambda, CloudFormation, IAM, CloudWatch, RDS, Route 53, VPC.
+- **Containerization:** Docker, Kubernetes.
 
 ## Get in Touch
 
