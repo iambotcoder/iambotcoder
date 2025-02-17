@@ -14,7 +14,7 @@ Hello! I'm Subodh, a tech enthusiast from Navi Mumbai, Maharashtra. I recently c
 - 💡 Coding is my way of making a difference. I get excited about building things that actually help people and make life easier.
 - 🎧 Music is life! I’m always jamming to anything that helps me focus, from chill beats to high-energy tunes.
 - ✈️ Big time Wanderlust runs deep! Traveling, trying new food, and exploring cultures keep me inspired and creative.
-🌿 I find peace in nature—whether it’s watching the moon, sunrise, or sunset, nature always amazes me.
+- 🌿 I find peace in nature—whether it’s watching the moon, sunrise, or sunset, nature always amazes me.
 
 ## Tech Stuff I Love
 
